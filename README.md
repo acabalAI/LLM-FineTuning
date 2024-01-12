@@ -47,8 +47,8 @@ You can install the dataset using the following commands:
 ### Installation
 
 ```bash
-git clone https://github.com/yourusername/peft-summarization.git
-cd peft-summarization
+git clone https://github.com/yourusername/LLM-FineTuning.git
+cd LLM-FineTuning
 ```
 
 ## Methodology
